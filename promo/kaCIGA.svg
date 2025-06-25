@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3625.89 595.28">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke-width: 0px;
+      }
+
+      .cls-13, .cls-8, .cls-14, .cls-15 {
+        fill: none;
+      }
+
+      .cls-13, .cls-14, .cls-16, .cls-15, .cls-17 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-17 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        fill: #8a181b;
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-6 {
+        fill: #ee2e24;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-7 {
+        fill: #59100f;
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-14 {
+        stroke-width: 3px;
+      }
+
+      .cls-16 {
+        fill: #d0c82a;
+      }
+
+      .cls-16, .cls-15 {
+        stroke-width: 2px;
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-10 {
+        fill: #144c9c;
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-12 {
+        fill: #e6d836;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="3188.34" y1="301.65" x2="3609.65" y2="301.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4c162"/>
+      <stop offset=".05" stop-color="#d7a857"/>
+      <stop offset=".17" stop-color="#8c6739"/>
+      <stop offset=".28" stop-color="#553824"/>
+      <stop offset=".36" stop-color="#331b17"/>
+      <stop offset=".4" stop-color="#271012"/>
+      <stop offset=".57" stop-color="#260e10"/>
+      <stop offset=".61" stop-color="#2f1613"/>
+      <stop offset=".68" stop-color="#492d1e"/>
+      <stop offset=".78" stop-color="#74512f"/>
+      <stop offset=".89" stop-color="#af8546"/>
+      <stop offset="1" stop-color="#f4c162"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="3235.95" y1="411.04" x2="3564.9" y2="221.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#69c4dc"/>
+      <stop offset=".07" stop-color="#69c4dc"/>
+      <stop offset=".14" stop-color="#8795bc"/>
+      <stop offset=".23" stop-color="#a7659b"/>
+      <stop offset=".29" stop-color="#ba4787"/>
+      <stop offset=".33" stop-color="#c23c80"/>
+      <stop offset=".35" stop-color="#bc4486"/>
+      <stop offset=".39" stop-color="#ac5d96"/>
+      <stop offset=".43" stop-color="#9284b0"/>
+      <stop offset=".48" stop-color="#6fbad5"/>
+      <stop offset=".49" stop-color="#69c4dc"/>
+      <stop offset=".53" stop-color="#69c4dc"/>
+      <stop offset=".58" stop-color="#8598be"/>
+      <stop offset=".62" stop-color="#9f70a3"/>
+      <stop offset=".66" stop-color="#b25390"/>
+      <stop offset=".7" stop-color="#bd4284"/>
+      <stop offset=".72" stop-color="#c23c80"/>
+      <stop offset=".75" stop-color="#bb4586"/>
+      <stop offset=".8" stop-color="#aa5f98"/>
+      <stop offset=".85" stop-color="#8e8ab4"/>
+      <stop offset=".92" stop-color="#69c4dc"/>
+      <stop offset=".96" stop-color="#69c4dc"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <polygon class="cls-8" points="3267.92 77.46 3267.92 77.46 3352.42 77.46 3352.42 170.9 3267.92 170.9 3267.92 77.46"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-8" points="3530.07 77.46 3530.07 77.46 3445.57 77.46 3445.57 170.9 3530.07 170.9 3530.07 77.46"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-8" points="3399.22 187.76 3399.24 202.28 3223.33 202.28 3223.33 187.76 3399.22 187.76"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polygon class="cls-8" points="3399.21 187.76 3399.24 202.28 3575.14 201.77 3575.1 187.25 3399.21 187.76"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-8" x="3263.45" y="356.5" width="136.35" height="41.65"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-8" x="3399.8" y="356.5" width="136.35" height="41.65"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-8" x="3173.41" y="53.02" width="226.01" height="501.41"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-8" x="3399.42" y="53.02" width="226.01" height="501.41"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-8" x="3181.25" y="242.6" width="218.2" height="118.09"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-8" x="3399.45" y="242.6" width="218.2" height="118.09"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-8" x="3261.92" y="355.95" width="137.55" height="42.6"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-8" x="3399.43" y="355.95" width="137.55" height="42.6"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-8" x="3176.36" y="345.17" width="222.97" height="194.05"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-8" x="3399.26" y="345.17" width="222.97" height="194.05"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-8" x="3194.37" y="198.91" width="205.46" height="60.15"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-8" x="3399.38" y="197.6" width="205.46" height="60.15" transform="translate(-2.63 44.89) rotate(-.73)"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-8" x="3359.54" y="89.49" width="39.97" height="71.34"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-8" x="3399.51" y="89.49" width="39.97" height="71.34"/>
+    </clipPath>
+  </defs>
+  <g>
+    <polygon class="cls-6" points="0 418.77 73.35 175.7 336.66 175.7 315.4 245.99 125.58 245.99 73.29 418.75 0 418.77"/>
+    <polygon class="cls-6" points="306.74 271.42 286.45 341.72 197.99 341.72 174.85 418.25 101.26 418.77 145.81 271.42 306.74 271.42"/>
+    <polygon class="cls-6" points="365.18 175.63 438.62 175.62 366.4 418.51 291.73 418.49 365.18 175.63"/>
+  </g>
+  <image width="881" height="657" transform="translate(1241.46 209.53) scale(.58)" xlink:href="C:\Users\Vedran\Documents\Lightshot\Screenshot_15.png"/>
+  <image width="879" height="659" transform="translate(865.12 1.65) scale(.58)" xlink:href="C:\Users\Vedran\Documents\Lightshot\Screenshot_14.png"/>
+  <image width="733" height="583" transform="translate(2084.5) scale(1.02)" xlink:href="C:\Users\Vedran\Documents\Lightshot\Screenshot_17.png"/>
+  <g>
+    <polygon class="cls-12" points="3399.37 53.28 3496.58 73.82 3582.12 145.89 3625.89 238.69 3622.36 355.78 3584.2 494.27 3536.94 538.41 3462.88 554.28 3399.63 554.28 3337.42 554.28 3262.71 538.41 3215.59 494.27 3176.98 355.78 3173.7 238.17 3216.11 145.89 3302.17 73.82 3399.37 53.28"/>
+    <polygon class="cls-3" points="3245.41 263.32 3188.34 296.89 3188.34 315.36 3197.85 342.21 3223.27 351.72 3287.78 359 3510.68 359 3572.16 352.84 3599.58 345.26 3609.65 316.48 3609.65 295.77 3552.02 263.32 3479.84 248.78 3399.73 244.3 3318.01 249.06 3245.41 263.32"/>
+    <polygon class="cls-11" points="3198.28 306.46 3200.77 310.07 3201.03 313.27 3198.28 311.78 3198.28 306.46"/>
+    <polygon class="cls-9" points="3243.77 263.32 3186.7 296.89 3186.7 315.36 3196.21 342.21 3221.63 351.72 3286.14 359 3509.03 359 3570.52 352.84 3597.93 345.26 3608 316.48 3608 295.77 3550.38 263.32 3478.2 248.78 3398.09 244.3 3316.36 249.06 3243.77 263.32"/>
+    <circle class="cls-10" cx="3399.51" cy="227.87" r="14.86"/>
+    <g>
+      <g id="_Mirror_Repeat_" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-27">
+          <polygon class="cls-7" points="3352.42 170.9 3329.61 139.03 3311.47 91.34 3297.73 77.46 3297.73 96 3274.81 96.65 3267.92 102.74 3300.58 101.7 3302.14 88.74 3310.17 102.22 3324.95 148.36 3352.42 170.9"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-2" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-23">
+          <polygon class="cls-7" points="3445.57 170.9 3468.38 139.03 3486.53 91.34 3500.27 77.46 3500.27 96 3523.19 96.65 3530.07 102.74 3497.41 101.7 3495.86 88.74 3487.82 102.22 3473.05 148.36 3445.57 170.9"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-3" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-18">
+          <polygon class="cls-7" points="3399.26 187.76 3223.33 192.95 3223.33 202.28 3399.26 195.02 3399.26 187.76"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-4" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-28">
+          <polygon class="cls-7" points="3399.18 187.76 3575.11 192.44 3575.14 201.77 3399.2 195.02 3399.18 187.76"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-5" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-24">
+          <polygon class="cls-5" points="3263.45 356.5 3265.89 376.24 3347.69 395.56 3399.8 398.15 3399.8 359.01 3288.38 359.79 3263.45 356.5"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-6" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-32">
+          <polygon class="cls-5" points="3536.14 356.5 3533.7 376.24 3451.9 395.56 3399.8 398.15 3399.8 359.01 3511.21 359.79 3536.14 356.5"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-7" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-21">
+          <line class="cls-13" x1="3399.49" y1="53.51" x2="3302.24" y2="73.96"/>
+          <line class="cls-13" x1="3216.49" y1="146.66" x2="3302.24" y2="73.96"/>
+          <line class="cls-13" x1="3173.91" y1="238.2" x2="3216.49" y2="146.66"/>
+          <line class="cls-13" x1="3177.42" y1="355.42" x2="3173.91" y2="238.2"/>
+          <line class="cls-13" x1="3214.69" y1="494.4" x2="3177.42" y2="355.42"/>
+          <line class="cls-13" x1="3262.39" y1="540.02" x2="3214.69" y2="494.4"/>
+          <line class="cls-13" x1="3337.73" y1="553.84" x2="3262.39" y2="540.02"/>
+          <line class="cls-13" x1="3399.28" y1="553.93" x2="3337.73" y2="553.84"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-8" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-22">
+          <line class="cls-13" x1="3399.34" y1="53.51" x2="3496.59" y2="73.96"/>
+          <line class="cls-13" x1="3582.35" y1="146.66" x2="3496.59" y2="73.96"/>
+          <line class="cls-13" x1="3624.93" y1="238.2" x2="3582.35" y2="146.66"/>
+          <line class="cls-13" x1="3621.41" y1="355.42" x2="3624.93" y2="238.2"/>
+          <line class="cls-13" x1="3584.14" y1="494.4" x2="3621.41" y2="355.42"/>
+          <line class="cls-13" x1="3536.45" y1="540.02" x2="3584.14" y2="494.4"/>
+          <line class="cls-13" x1="3461.1" y1="553.84" x2="3536.45" y2="540.02"/>
+          <line class="cls-13" x1="3399.55" y1="553.93" x2="3461.1" y2="553.84"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-9" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-29">
+          <g>
+            <rect class="cls-4" x="3181.25" y="295.94" width="17.11" height="21.26"/>
+            <polyline class="cls-14" points="3399.42 358.67 3289.09 359.19 3226.88 352.45 3198.36 343.12 3189.81 317.2 3188.61 296.24 3247.09 263.28 3318.64 248.77 3399.42 244.1"/>
+          </g>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-10" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-26">
+          <g>
+            <rect class="cls-4" x="3600.54" y="295.94" width="17.11" height="21.26" transform="translate(7218.19 613.14) rotate(180)"/>
+            <polyline class="cls-14" points="3399.49 358.67 3509.82 359.19 3572.03 352.45 3600.54 343.12 3609.1 317.2 3610.29 296.24 3551.81 263.28 3480.26 248.77 3399.49 244.1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-11" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-33">
+          <g>
+            <path class="cls-15" d="M3262.91,356.08l2.59,19.7-2.59-19.7Z"/>
+            <path class="cls-15" d="M3347.41,394.97l-81.91-19.18,81.91,19.18Z"/>
+            <path class="cls-15" d="M3399.42,397.56l-52.01-2.59,52.01,2.59Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-12" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-1">
+          <g>
+            <path class="cls-15" d="M3535.99,356.08l-2.59,19.7,2.59-19.7Z"/>
+            <path class="cls-15" d="M3451.48,394.97l81.91-19.18-81.91,19.18Z"/>
+            <path class="cls-15" d="M3399.48,397.56l52.01-2.59-52.01,2.59Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-13" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-25">
+          <g>
+            <path class="cls-7" d="M3176.85,346.23c5.45,2.21,16.24,6.64,21.65,8.92,0,0-.39-.09-.39-.09l18.14-.66.91-.03.5.88c9.04,16.25,21.82,41.43,30.73,58.07-1.13-1.46,40.49,48.74,40.24,48.43,0,0-2.83,2.04-2.83,2.04l-29.03-46.66-.85-1.36,1.28-.96,16.56-12.44.65-.49.79.18,57.57,12.96c9.46.48,22.63,1.32,33.13,2.5,9.59.93,23.85,2.33,33.36,3.35-9.54-.16-23.8-.53-33.52-.79-11.13-.13-22.55-.89-33.61-1.62,0,0-57.66-12.99-57.71-12.99,0,0,1.43-.31,1.43-.31l-16.56,12.44.43-2.32,29.03,46.66-2.83,2.04c-.12-.14-40.45-48.74-40.55-48.87-.09-.11-15.28-29.1-15.38-29.23-2.61-4.96-8.9-16.98-11.51-21.78-1.3-2.41-2.46-4.89-3.65-7.36l1.41.85-18.14-.66h-.24s-.15-.09-.15-.09c-5.18-2.59-15.71-7.95-20.86-10.63h0Z"/>
+            <path class="cls-7" d="M3187.47,392.37c9.46,2.6,20.04,5.75,29.51,8.55,3.47.94,6.8,2.31,10.2,3.45l.33.45,69.99,95.91-.87-.63c-.52-.05,46.36,14.94,44.15,14.43,8.5.64,20.9,1.03,29.28,2.01,8.41.95,20.86,2.32,29.2,3.37-8.36.1-20.87-.22-29.39-.26-8.4-.06-20.76-1.21-29.3-1.62,0,0-.22-.01-.22-.01l-.21-.07-44.59-14.52-.54-.18-.33-.46c.79.6-72.9-98.97-69.15-95.29-12.72-4.28-25.63-10.04-38.05-15.13h0Z"/>
+            <path class="cls-7" d="M3270.17,513.17c-2.87-3.55-5.67-7.14-8.42-10.77-1.31-1.64-2.88-3.81-3.86-5.6-10.5-17.04-37.05-59.03-46.36-74.53,0,0-5.57-4.41-5.57-4.41-5.67-4.34-10.5-9.63-15.63-14.59,6.01,3.85,12.28,7.33,17.8,11.85,0,0,5.57,4.41,5.57,4.41l.24.19.16.26,28.77,46.14c3.85,6.21,16.11,25.79,19.79,31.72,2.55,5.04,5.13,10.21,7.5,15.35h0Z"/>
+            <path class="cls-7" d="M3399.26,537.53c-8.73.78-17.92,1.59-26.68,2.05-7.64,0-18.92.14-26.7.22-.09,0-.25,0-.34-.03,0,0-36.29-6.74-36.29-6.74-.14-.02-.29-.06-.41-.13-.13-.15-39.43-18.08-39.54-18.22-5.24-3.01-32.54-18.68-37.27-21.37-6.89-4.6-14.68-9.67-21.48-14.36,7.46,3.51,15.78,7.64,23.24,11.3,4.53,2.62,32.04,18.42,37.25,21.4-.79-.37,39.47,18.17,39.26,18.07,0,0-.41-.13-.41-.13-.35-.08,37.63,6.96,35.95,6.71,7.78-.13,19.01-.1,26.7-.3,8.77.29,17.97.93,26.72,1.53h0Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-14" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-19">
+          <g>
+            <path class="cls-7" d="M3399.33,420.89c21.85-2.27,44.85-4.83,66.77-5.89-1.51.28,57.69-12.99,57.3-12.92,0,0,.79-.18.79-.18l.65.49,16.56,12.44,1.28.96-.85,1.36-29.03,46.66-2.83-2.04c-.11-.05,41.24-49.64,40.24-48.43,8.9-16.72,21.66-41.71,30.75-58.06,0,0,.5-.87.5-.87l.9.03,18.14.65-.38.08c5.34-2.24,16.26-6.76,21.64-8.94-5.22,2.7-15.63,7.98-20.87,10.61,0,0-.15.08-.15.08h-.23s-18.14.66-18.14.66l1.39-.84c-1.2,2.46-2.34,4.95-3.63,7.37-6.93,13.1-19.78,37.48-26.8,50.86-.04.08-.13.24-.2.3,0,0-40.44,48.73-40.44,48.73l-2.83-2.04,29.03-46.66.43,2.32-16.56-12.44,1.43.31-57.57,12.96c-21.97,1.72-45.22,1.97-67.26,2.44h0Z"/>
+            <path class="cls-7" d="M3611.11,392.37c-12.41,5.08-25.33,10.85-38.05,15.13,3.95-3.97-70.2,96.27-69.15,95.29,0,0-.33.46-.33.46l-.54.18-44.59,14.52-.21.07h-.22c-8.52.41-20.86,1.58-29.3,1.64-8.47.08-20.98.29-29.39.26,8.29-.99,20.73-2.45,29.19-3.37,8.34-.99,20.76-1.35,29.28-2.01-2.23.62,44.67-14.59,44.15-14.43-4.09,4.08,70.21-96.3,69.12-95.28,0,0,.33-.45.33-.45,3.4-1.14,6.73-2.52,10.2-3.45,9.45-2.77,20.04-5.94,29.51-8.55h0Z"/>
+            <path class="cls-7" d="M3528.42,513.17c2.38-5.13,4.95-10.3,7.5-15.35,3.59-5.79,15.98-25.58,19.79-31.72,0,0,28.77-46.14,28.77-46.14l.16-.26.24-.19,5.57-4.41c5.53-4.51,11.8-8,17.8-11.85-5.13,4.96-9.97,10.26-15.63,14.59,0,0-5.57,4.41-5.57,4.41-9.44,15.71-35.73,57.28-46.36,74.53-1,1.84-2.56,3.97-3.86,5.6-2.74,3.63-5.55,7.22-8.42,10.77h0Z"/>
+            <path class="cls-7" d="M3399.33,537.53c8.74-.61,17.95-1.25,26.72-1.53,7.64.2,18.92.18,26.7.3-1.74.25,36.35-6.76,35.95-6.71,0,0-.41.13-.41.13-.16.04,39.97-18.39,39.26-18.07,5.24-3.01,32.55-18.67,37.25-21.4,7.44-3.65,15.76-7.78,23.24-11.3-6.79,4.69-14.56,9.76-21.48,14.36-4.56,2.57-32.06,18.39-37.27,21.37.04.05-39.52,18.17-39.54,18.22-.11.06-.26.11-.41.13,0,0-36.29,6.74-36.29,6.74l-.17.03h-.17c-7.78-.09-19.01-.22-26.7-.22-8.76-.46-17.95-1.27-26.68-2.05h0Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-15" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-30">
+          <polygon class="cls-17" points="3399.33 199.45 3303.95 206.45 3240.18 226.67 3194.66 258.62 3242.77 234.19 3309.13 216.3 3399.26 211.63 3399.33 199.45"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-16" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-20">
+          <polygon class="cls-17" points="3399.51 199.45 3494.97 205.23 3559 224.63 3604.92 255.99 3556.5 232.18 3489.92 215.14 3399.74 211.63 3399.51 199.45"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="_Mirror_Repeat_-17" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-2">
+          <polyline class="cls-16" points="3400.45 90.49 3380.5 90.49 3360.54 96.2 3360.54 119.53 3369.88 136.63 3383.36 150.63 3400.12 159.96"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-18" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-31">
+          <polyline class="cls-16" points="3398.58 90.49 3418.53 90.49 3438.48 96.2 3438.48 119.53 3429.15 136.63 3415.67 150.63 3398.91 159.96"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
